@@ -12,3 +12,7 @@ This repository contains some tutorials on basic machine learning techniques. So
 3) Tutorial on K-means algorithm, showing how a computer can use unsupervised learning to group data.
 
 <img src="./ReadMeImages/ReadMeKmeans.png" />
+
+4) Tutorial on text analysis, showing how to vectorize text using n-grams and count matrices plus clustering with both K-means and LDA.
+
+<img src="/ReadMeImages/LDA_topic_grouping.png" />
